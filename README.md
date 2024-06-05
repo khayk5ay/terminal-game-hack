@@ -14,4 +14,5 @@ The code helps you eliminate the ineligible candidates and based on the guess yo
 
 More on the game here
 
-0xterminal.game
+[0xterminal.game](0xterminal.game)
+
