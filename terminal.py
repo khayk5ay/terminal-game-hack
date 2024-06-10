@@ -9,12 +9,27 @@ logging.basicConfig(format='%(levelname)s:%(message)s', level=logging.DEBUG)
 class Terminal:
 
     def __init__(self, candidates):
-        self.candidates = candidates
+        self.candidates = list(map(str.lower, candidates))
         print(self.candidates)
         self.n_candidates = len(candidates)
         self.len_candidates = len(candidates[0])
 
+    def check_candidates_length(self):
+        for each in self.candidates:
+            if len(each) == self.len_candidates:
+                continue
+            else: 
+                return each 
 
+                
+    def replace_candidate(self, old_candidate, new_candidate):
+        # get the index of the old candidate
+        i = self.candidates.index(old_candidate)
+        #replace the old candidate with new candidate
+        self.candidates[i] = new_candidate
+        print(self.candidates)
+        
+        
     def total_matches(self, first_word, second_word):
         """
         Returns the total number of letters in the 'second_word' that are in the same position in 'first_word'
