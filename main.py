@@ -1,11 +1,21 @@
 from terminal import Terminal
 
 def __main__():
-    list_of_candidates = []
     candidates = [item for item in input("Please give a list of the words ").split(", ")]
 
     game = Terminal(candidates)
+    # Check that all words are the same length
+    length_check = game.check_candidates_length()
+    print(length_check)
+    
+    while length_check != None:
+        
+        print(f"All candidates are not the same length, Check '{length_check}'")
+        new_word = str.lower(input(f"Replace '{length_check}' with a new word: "))
+        game.replace_candidate(length_check, new_word)
+        length_check = game.check_candidates_length()    
 
+    
     print("Game Initiated")
     
     while len(game.candidates) > 1:
