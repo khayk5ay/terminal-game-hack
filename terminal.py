@@ -111,7 +111,62 @@ class Terminal:
         print(likely)
 
         return
-    
-      
+
+    """
+    Version 2
+
+    """
+
+    def get_max(self):
+
+        max_dict = {}
+        words_dict = self.compiled_spread()
+        for each in words_dict.keys():
+            max_dict[each] = max(words_dict[each])
+
+        return max_dict
+
+
+    def compiled_spread(self):
+        """
+            Returns the set of the candidates matches with other candidates
+
+            Args:
+            main_word : The word for which we want to find the spread of matches with other candidates
+
+            Returns : A set with the match spread as values
+
+            Example:
+
+            If the main word is 'supply' and the candidates are ['traces', 'supply', 'coming', 'insane', 'tavern', 'statue', 'powder']
+
+            It will return {0, 1}
+
+            It will drop both the maximum match - 6
+        """
+        match_dict = {}
+        for each in self.candidates:
+            spread = set(self.check_candidate_matches(each))
+            spread.remove(max(spread))
+            match_dict[each] = list(spread)
+            
+        return match_dict
+
+        
+    def very_likely(self):
+        """
+            Returns the most likely candidate(s) that the user can pick a guess from
+        """
+        likely = []
+        max_dict = self.get_max()
+        highest_chance = max(max_dict.values())
+
+        for candidate, total in max_dict.items():
+            if total == highest_chance:
+                likely.append(candidate)
+
+        print(likely)
+
+        return
 
         
