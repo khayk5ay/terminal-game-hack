@@ -1,0 +1,1183 @@
+Microsoft Windows [Version 10.0.19045.4412]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words flask, fists, while, honor, beats, alley, kills, ruled, wares, thief, suits, enact, smile
+['flask', 'fists', 'while', 'honor', 'beats', 'alley', 'kills', 'ruled', 'wares', 'thief', 'suits', 'enact', 'smile']
+None
+Game Initiated
+Available candidates are ['flask', 'fists', 'while', 'honor', 'beats', 'alley', 'kills', 'ruled', 'wares', 'thief', 'suits', 'enact', 'smile']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['suits']
+What is your guess? suits
+What is the clue? 1
+Available candidates are ['while', 'kills', 'ruled', 'wares', 'thief']
+Number of candidates : 5
+Would you like to know a highly likely candidate? Y/N Y
+['while', 'wares', 'thief']
+What is your guess? while
+What is the clue? 0
+Last Candidate Standing is ruled
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words which, three, hands, wiped, alone, cargo, sneak, cells, crude, baton, cross, stuck, worse
+['which', 'three', 'hands', 'wiped', 'alone', 'cargo', 'sneak', 'cells', 'crude', 'baton', 'cross', 'stuck', 'worse']
+None
+Game Initiated
+Available candidates are ['which', 'three', 'hands', 'wiped', 'alone', 'cargo', 'sneak', 'cells', 'crude', 'baton', 'cross', 'stuck', 'worse']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['crude']
+What is your guess? crude
+What is the clue? 1
+Available candidates are ['three', 'hands', 'alone', 'cargo', 'cells', 'stuck', 'worse']
+Number of candidates : 7
+Would you like to know a highly likely candidate? Y/N Y
+['three', 'cargo', 'worse']
+What is your guess? cargo
+What is the clue? 1
+Available candidates are ['three', 'hands', 'cells', 'worse']
+Number of candidates : 4
+Would you like to know a highly likely candidate? Y/N Y
+['three', 'worse']
+What is your guess? three
+What is the clue? 0
+Available candidates are ['hands', 'cells']
+Number of candidates : 2
+Would you like to know a highly likely candidate? Y/N Y
+['hands', 'cells']
+What is your guess? hands
+What is the clue? 5
+Last Candidate Standing is hands
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words however, hammers, origins, arrived, rhombus, airlock, elegant, beneath, storage, implies, appears, heights, sharper
+['however', 'hammers', 'origins', 'arrived', 'rhombus', 'airlock', 'elegant', 'beneath', 'storage', 'implies', 'appears', 'heights', 'sharper']
+None
+Game Initiated
+Available candidates are ['however', 'hammers', 'origins', 'arrived', 'rhombus', 'airlock', 'elegant', 'beneath', 'storage', 'implies', 'appears', 'heights', 'sharper']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['appears']
+What is your guess? appears
+What is the clue? 2
+Available candidates are ['hammers', 'beneath', 'implies']
+Number of candidates : 3
+Would you like to know a highly likely candidate? Y/N Y
+['hammers', 'implies']
+What is your guess? beneath
+What is the clue? 7
+Last Candidate Standing is beneath
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>
+
+
+Microsoft Windows [Version 10.0.19045.4412]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words erratically, unbeknownst, worshipping, instruments, unspeakable, constructed, discoveries, freeloaders, shoplifting, disappeared, combination, residential, reprimanded
+['erratically', 'unbeknownst', 'worshipping', 'instruments', 'unspeakable', 'constructed', 'discoveries', 'freeloaders', 'shoplifting', 'disappeared', 'combination', 'residential', 'reprimanded']
+None
+Game Initiated
+Available candidates are ['erratically', 'unbeknownst', 'worshipping', 'instruments', 'unspeakable', 'constructed', 'discoveries', 'freeloaders', 'shoplifting', 'disappeared', 'combination', 'residential', 'reprimanded']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['discoveries']
+What is your guess? discoveries
+What is the clue? 1
+Available candidates are ['worshipping', 'unspeakable', 'constructed', 'freeloaders', 'shoplifting', 'combination', 'reprimanded']
+Number of candidates : 7
+Would you like to know a highly likely candidate? Y/N Y
+['combination']
+What is your guess? combination
+What is the clue? 1
+Last Candidate Standing is freeloaders
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python second_main.py
+Please give a list of the words erratically, unbeknownst, worshipping, instruments, unspeakable, constructed, discoveries, freeloaders, shoplifting, disappeared, combination, residential, reprimanded
+['erratically', 'unbeknownst', 'worshipping', 'instruments', 'unspeakable', 'constructed', 'discoveries', 'freeloaders', 'shoplifting', 'disappeared', 'combination', 'residential', 'reprimanded']
+None
+Game Initiated
+{'erratically': [11, 0, 2, 0, 2, 1, 0, 1, 1, 2, 0, 0, 0], 'unbeknownst': [0, 11, 0, 2, 2, 0, 0, 1, 0, 0, 1, 0, 0], 'worshipping': [2, 0, 11, 0, 0, 2, 1, 0, 4, 0, 2, 1, 0], 'instruments': [0, 2, 0, 11, 2, 0, 2, 1, 0, 1, 0, 1, 0], 'unspeakable': [2, 2, 0, 2, 11, 0, 1, 0, 1, 2, 0, 1, 0], 'constructed': [1, 0, 2, 0, 0, 11, 1, 0, 0, 2, 2, 0, 2], 'discoveries': [0, 0, 1, 2, 1, 1, 11, 1, 1, 5, 1, 2, 1], 'freeloaders': [1, 1, 0, 1, 0, 0, 1, 11, 1, 0, 1, 0, 1], 'shoplifting': [1, 0, 4, 0, 1, 0, 1, 1, 11, 0, 2, 2, 0], 'disappeared': [2, 0, 0, 1, 2, 2, 5, 0, 0, 11, 0, 1, 2], 'combination': [0, 1, 2, 0, 0, 2, 1, 1, 2, 0, 11, 2, 2], 'residential': [0, 0, 1, 1, 1, 0, 2, 0, 2, 1, 2, 11, 2], 'reprimanded': [0, 0, 0, 0, 0, 2, 1, 1, 0, 2, 2, 2, 11]}
+Available candidates are ['erratically', 'unbeknownst', 'worshipping', 'instruments', 'unspeakable', 'constructed', 'discoveries', 'freeloaders', 'shoplifting', 'disappeared', 'combination', 'residential', 'reprimanded']
+Number of candidates : 13
+Would you like to know a (V)ery likely, (M)ost likely candidate? V/M/N M
+['discoveries']
+What is your guess? disco
+What is the clue?
+Traceback (most recent call last):
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\second_main.py", line 42, in <module>
+    __main__()
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\second_main.py", line 35, in __main__
+    clue = int(input("What is the clue? "))
+ValueError: invalid literal for int() with base 10: ''
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words actress, bundled, caliber, allowed, contest, nervous, manhood, systems, cutting, willing, himself, stealth, driving
+['actress', 'bundled', 'caliber', 'allowed', 'contest', 'nervous', 'manhood', 'systems', 'cutting', 'willing', 'himself', 'stealth', 'driving']
+None
+Game Initiated
+Available candidates are ['actress', 'bundled', 'caliber', 'allowed', 'contest', 'nervous', 'manhood', 'systems', 'cutting', 'willing', 'himself', 'stealth', 'driving']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['cutting']
+What is your guess? cutting
+What is the clue? 0
+Available candidates are ['allowed', 'nervous', 'manhood', 'himself', 'stealth']
+Number of candidates : 5
+Would you like to know a highly likely candidate? Y/N Y
+['manhood']
+What is your guess? manhood
+What is the clue? 1
+Available candidates are ['allowed', 'nervous']
+Number of candidates : 2
+Would you like to know a highly likely candidate? Y/N Y
+['allowed', 'nervous']
+What is your guess? allowed
+What is the clue? 7
+Last Candidate Standing is allowed
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python second_main.py
+Please give a list of the words actress, bundled, caliber, allowed, contest, nervous, manhood, systems, cutting, willing, himself, stealth, driving
+['actress', 'bundled', 'caliber', 'allowed', 'contest', 'nervous', 'manhood', 'systems', 'cutting', 'willing', 'himself', 'stealth', 'driving']
+None
+Game Initiated
+{'actress': [7, 0, 0, 1, 2, 1, 0, 2, 1, 0, 1, 0, 0], 'bundled': [0, 7, 1, 2, 1, 0, 2, 0, 1, 0, 0, 1, 0], 'caliber': [0, 1, 7, 2, 1, 0, 1, 0, 1, 1, 0, 0, 0], 'allowed': [1, 2, 2, 7, 0, 0, 1, 0, 0, 1, 0, 0, 0], 'contest': [2, 1, 1, 0, 7, 0, 1, 2, 2, 0, 1, 0, 0], 'nervous': [1, 0, 0, 0, 0, 7, 1, 1, 0, 0, 0, 0, 1], 'manhood': [0, 2, 1, 1, 1, 1, 7, 0, 0, 0, 0, 0, 0], 'systems': [2, 0, 0, 0, 2, 1, 0, 7, 1, 0, 1, 1, 0], 'cutting': [1, 1, 1, 0, 2, 0, 0, 1, 7, 3, 0, 0, 3], 'willing': [0, 0, 1, 1, 0, 0, 0, 0, 3, 7, 1, 0, 3], 'himself': [1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 7, 0, 0], 'stealth': [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 7, 0], 'driving': [0, 0, 0, 0, 0, 1, 0, 0, 3, 3, 0, 0, 7]}
+Available candidates are ['actress', 'bundled', 'caliber', 'allowed', 'contest', 'nervous', 'manhood', 'systems', 'cutting', 'willing', 'himself', 'stealth', 'driving']
+Number of candidates : 13
+Would you like to know a (V)ery likely, (M)ost likely candidate? V/M/N N
+What is your guess? caliber
+What is the clue? 2
+Last Candidate Standing is allowed
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words volatile, junction, shackles, enabling, skeletal, conducts, property, backpack, appeared, announce, defeated, enslaved, benefits
+['volatile', 'junction', 'shackles', 'enabling', 'skeletal', 'conducts', 'property', 'backpack', 'appeared', 'announce', 'defeated', 'enslaved', 'benefits']
+None
+Game Initiated
+Available candidates are ['volatile', 'junction', 'shackles', 'enabling', 'skeletal', 'conducts', 'property', 'backpack', 'appeared', 'announce', 'defeated', 'enslaved', 'benefits']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['benefits']
+What is your guess? e
+What is the clue? e
+Traceback (most recent call last):
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 38, in <module>
+    __main__()
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 32, in __main__
+    clue = int(clue)
+ValueError: invalid literal for int() with base 10: 'e'
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python second_main.py
+Please give a list of the words volatile, junction, shackles, enabling, skeletal, conducts, property, backpack, appeared, announce, defeated, enslaved, benefits
+['volatile', 'junction', 'shackles', 'enabling', 'skeletal', 'conducts', 'property', 'backpack', 'appeared', 'announce', 'defeated', 'enslaved', 'benefits']
+None
+Game Initiated
+{'volatile': [8, 2, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 1], 'junction': [2, 8, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 2], 'shackles': [0, 1, 8, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1], 'enabling': [1, 1, 1, 8, 0, 0, 0, 0, 0, 1, 0, 2, 1], 'skeletal': [0, 0, 1, 0, 8, 0, 1, 0, 0, 0, 1, 1, 0], 'conducts': [1, 1, 1, 0, 0, 8, 1, 0, 0, 2, 0, 0, 3], 'property': [0, 0, 0, 0, 1, 1, 8, 0, 1, 0, 0, 0, 1], 'backpack': [0, 0, 0, 0, 0, 0, 0, 8, 0, 1, 0, 0, 1], 'appeared': [0, 0, 1, 0, 0, 0, 1, 0, 8, 1, 4, 3, 1], 'announce': [1, 1, 0, 1, 0, 2, 0, 1, 1, 8, 0, 1, 1], 'defeated': [0, 0, 1, 0, 1, 0, 0, 0, 4, 0, 8, 3, 2], 'enslaved': [0, 0, 1, 2, 1, 0, 0, 0, 3, 1, 3, 8, 0], 'benefits': [1, 2, 1, 1, 0, 3, 1, 1, 1, 1, 2, 0, 8]}
+Available candidates are ['volatile', 'junction', 'shackles', 'enabling', 'skeletal', 'conducts', 'property', 'backpack', 'appeared', 'announce', 'defeated', 'enslaved', 'benefits']
+Number of candidates : 13
+Would you like to know a (V)ery likely, (M)ost likely candidate? V/M/N N
+What is your guess? benefits
+What is the clue? 1
+Available candidates are ['volatile', 'shackles', 'enabling', 'property', 'backpack', 'appeared', 'announce']
+Number of candidates : 7
+Would you like to know a (V)ery likely, (M)ost likely candidate? V/M/N M
+['announce']
+What is your guess? shackles
+What is the clue? 0
+Available candidates are ['volatile', 'property', 'backpack', 'announce']
+Number of candidates : 4
+Would you like to know a (V)ery likely, (M)ost likely candidate? V/M/N M
+['announce']
+What is your guess? announce
+What is the clue? 8
+Last Candidate Standing is announce
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>
+
+
+
+Microsoft Windows [Version 10.0.19045.4412]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words production, vegetables, appearance, undetected
+['production', 'vegetables', 'appearance', 'undetected']
+None
+Game Initiated
+Available candidates are ['production', 'vegetables', 'appearance', 'undetected']
+Number of candidates : 4
+Would you like to know a highly likely candidate? Y/N chai
+What is your guess? i
+What is the clue? i
+Traceback (most recent call last):
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 38, in <module>
+    __main__()
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 32, in __main__
+    clue = int(clue)
+ValueError: invalid literal for int() with base 10: 'i'
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words production, vegetables, appearance, undetected, challenged, understand, increasing, scandalous, disheveled, rebellious, resistance, maintained, protection
+['production', 'vegetables', 'appearance', 'undetected', 'challenged', 'understand', 'increasing', 'scandalous', 'disheveled', 'rebellious', 'resistance', 'maintained', 'protection']
+None
+Game Initiated
+Available candidates are ['production', 'vegetables', 'appearance', 'undetected', 'challenged', 'understand', 'increasing', 'scandalous', 'disheveled', 'rebellious', 'resistance', 'maintained', 'protection']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['undetected']
+What is your guess? undetected
+What is the clue? 1
+Available candidates are ['appearance', 'increasing', 'rebellious']
+Number of candidates : 3
+Would you like to know a highly likely candidate? Y/N Y
+['appearance', 'rebellious']
+What is your guess? appearance
+What is the clue? 10
+Last Candidate Standing is appearance
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words sledge, misers, pretty, tongue, dapper, murder, worked, bitten, cabbot, listen, crisis, plants, cattle
+['sledge', 'misers', 'pretty', 'tongue', 'dapper', 'murder', 'worked', 'bitten', 'cabbot', 'listen', 'crisis', 'plants', 'cattle']
+None
+Game Initiated
+Available candidates are ['sledge', 'misers', 'pretty', 'tongue', 'dapper', 'murder', 'worked', 'bitten', 'cabbot', 'listen', 'crisis', 'plants', 'cattle']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['bitten', 'listen']
+What is your guess? bitten
+What is the clue? 1
+Available candidates are ['misers', 'pretty', 'dapper', 'murder', 'worked']
+Number of candidates : 5
+Would you like to know a highly likely candidate? Y/N Y
+['murder']
+What is your guess? MURDER
+What is the clue? 6
+Traceback (most recent call last):
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 38, in <module>
+    __main__()
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 33, in __main__
+    game.update_candidates(guess, clue)
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 84, in update_candidates
+    candidates_bool = list(np.array(words_dict[guess]) == clue)
+KeyError: 'MURDER'
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words divided, nowhere, beliefs, guarded, implies, journey, leather, devious, servant, sheriff, carries, husband, already
+['divided', 'nowhere', 'beliefs', 'guarded', 'implies', 'journey', 'leather', 'devious', 'servant', 'sheriff', 'carries', 'husband', 'already']
+None
+Game Initiated
+Available candidates are ['divided', 'nowhere', 'beliefs', 'guarded', 'implies', 'journey', 'leather', 'devious', 'servant', 'sheriff', 'carries', 'husband', 'already']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['carries']
+What is your guess? carries
+What is the clue? 0
+Available candidates are ['nowhere', 'husband']
+Number of candidates : 2
+Would you like to know a highly likely candidate? Y/N Y
+['nowhere', 'husband']
+What is your guess? nowhere
+What is the clue? 0
+Last Candidate Standing is husband
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>
+
+
+Microsoft Windows [Version 10.0.19045.4412]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words delighting, mysterious, overlooked, difference, incredible, expedition, allegiance, acceptance, flourishes, endorphins, unprepared, encampment, undergoing
+['delighting', 'mysterious', 'overlooked', 'difference', 'incredible', 'expedition', 'allegiance', 'acceptance', 'flourishes', 'endorphins', 'unprepared', 'encampment', 'undergoing']
+None
+Game Initiated
+Available candidates are ['delighting', 'mysterious', 'overlooked', 'difference', 'incredible', 'expedition', 'allegiance', 'acceptance', 'flourishes', 'endorphins', 'unprepared', 'encampment', 'undergoing']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['endorphins', 'undergoing']
+What is your guess? endorphins
+What is the clue? 4
+Last Candidate Standing is encampment
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words traces, supply, coming, insane, tavern, statue, powder, menial, faulty, spires, raider, judged, figure
+['traces', 'supply', 'coming', 'insane', 'tavern', 'statue', 'powder', 'menial', 'faulty', 'spires', 'raider', 'judged', 'figure']
+None
+Game Initiated
+Available candidates are ['traces', 'supply', 'coming', 'insane', 'tavern', 'statue', 'powder', 'menial', 'faulty', 'spires', 'raider', 'judged', 'figure']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['raider']
+What is your guess? raider
+What is the clue? 1
+Available candidates are ['traces', 'tavern', 'faulty', 'judged']
+Number of candidates : 4
+Would you like to know a highly likely candidate? Y/N Y
+['traces', 'tavern']
+What is your guess? tavern
+What is the clue? 6
+Last Candidate Standing is tavern
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words blasphemers, unorganized, beckoningly, discoveries, destructive, essentially, persecution, recognition, independent, maintenance, acknowledge, infestation, unbeknownst
+['blasphemers', 'unorganized', 'beckoningly', 'discoveries', 'destructive', 'essentially', 'persecution', 'recognition', 'independent', 'maintenance', 'acknowledge', 'infestation', 'unbeknownst']
+None
+Game Initiated
+Available candidates are ['blasphemers', 'unorganized', 'beckoningly', 'discoveries', 'destructive', 'essentially', 'persecution', 'recognition', 'independent', 'maintenance', 'acknowledge', 'infestation', 'unbeknownst']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['recognition']
+What is your guess? recognition
+What is the clue? 5
+Last Candidate Standing is persecution
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>
+
+
+Microsoft Windows [Version 10.0.19045.4412]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words reaches, variety, warlike, missing, annoyed, outpost, melting, decades, firearm, wearing, working, station, physics
+['reaches', 'variety', 'warlike', 'missing', 'annoyed', 'outpost', 'melting', 'decades', 'firearm', 'wearing', 'working', 'station', 'physics']
+None
+Game Initiated
+Available candidates are ['reaches', 'variety', 'warlike', 'missing', 'annoyed', 'outpost', 'melting', 'decades', 'firearm', 'wearing', 'working', 'station', 'physics']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['wearing']
+What is your guess? wearing
+What is the clue? 3
+Last Candidate Standing is missing
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words corporate, insistent, sanctuary, furniture, marauding, concealed, preparing, consisted, mechanism, monstrous, beautiful, nightclub, instantly
+['corporate', 'insistent', 'sanctuary', 'furniture', 'marauding', 'concealed', 'preparing', 'consisted', 'mechanism', 'monstrous', 'beautiful', 'nightclub', 'instantly']
+None
+Game Initiated
+Available candidates are ['corporate', 'insistent', 'sanctuary', 'furniture', 'marauding', 'concealed', 'preparing', 'consisted', 'mechanism', 'monstrous', 'beautiful', 'nightclub', 'instantly']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['monstrous']
+What is your guess? monstrous
+What is the clue? 0
+Available candidates are ['insistent', 'furniture', 'instantly']
+Number of candidates : 3
+Would you like to know a highly likely candidate? Y/N Y
+['insistent']
+What is your guess? furniture
+What is the clue? 9
+Last Candidate Standing is furniture
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words armageddon, exchanging, adrenaline, geothermal, underwater, brainwaves, facilities, associates, footprints, benevolent, scavenging, recreating, successful
+['armageddon', 'exchanging', 'adrenaline', 'geothermal', 'underwater', 'brainwaves', 'facilities', 'associates', 'footprints', 'benevolent', 'scavenging', 'recreating', 'successful']
+None
+Game Initiated
+Available candidates are ['armageddon', 'exchanging', 'adrenaline', 'geothermal', 'underwater', 'brainwaves', 'facilities', 'associates', 'footprints', 'benevolent', 'scavenging', 'recreating', 'successful']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['recreating']
+What is your guess? recreating
+What is the clue? 0
+Available candidates are ['armageddon', 'underwater', 'brainwaves', 'associates', 'footprints']
+Number of candidates : 5
+Would you like to know a highly likely candidate? Y/N Y
+['brainwaves', 'associates']
+What is your guess? associates
+What is the clue? 10
+Last Candidate Standing is associates
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>Microsoft Windows [Version 10.0.19045.4412]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words processor, canisters, wrenching, mechanism, piercings, footsteps, incessant, adventure, followers, community, computers, everytime
+['processor', 'canisters', 'wrenching', 'mechanism', 'piercings', 'footsteps', 'incessant', 'adventure', 'followers', 'community', 'computers', 'everytime']
+None
+Game Initiated
+Available candidates are ['processor', 'canisters', 'wrenching', 'mechanism', 'piercings', 'footsteps', 'incessant', 'adventure', 'followers', 'community', 'computers', 'everytime']
+Number of candidates : 12
+Would you like to know a highly likely candidate? Y/N Y
+['computers']
+What is your guess? computers
+What is the clue? 4
+Available candidates are ['footsteps', 'followers', 'community']
+Number of candidates : 3
+Would you like to know a highly likely candidate? Y/N Y
+['footsteps', 'followers']
+What is your guess? followers
+What is the clue? 1
+Last Candidate Standing is community
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words servant, zealous, protect, thirsty, defense, signals, slumber, beeping, periods, effects, trained, success, popular
+['servant', 'zealous', 'protect', 'thirsty', 'defense', 'signals', 'slumber', 'beeping', 'periods', 'effects', 'trained', 'success', 'popular']
+None
+Game Initiated
+Available candidates are ['servant', 'zealous', 'protect', 'thirsty', 'defense', 'signals', 'slumber', 'beeping', 'periods', 'effects', 'trained', 'success', 'popular']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['periods']
+What is your guess? periods
+What is the clue? 1
+Available candidates are ['protect', 'defense', 'signals', 'beeping', 'effects', 'trained', 'success', 'popular']
+Number of candidates : 8
+Would you like to know a highly likely candidate? Y/N Y
+['defense', 'success']
+What is your guess? success
+What is the clue? 1
+Available candidates are ['protect', 'defense', 'effects']
+Number of candidates : 3
+Would you like to know a highly likely candidate? Y/N Y
+['defense', 'effects']
+What is your guess? defense
+What is the clue? 0
+Last Candidate Standing is protect
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words walkway, records, faction, intense, stating, objects, mankind, desires, villain, bandits, popular, streets, western
+['walkway', 'records', 'faction', 'intense', 'stating', 'objects', 'mankind', 'desires', 'villain', 'bandits', 'popular', 'streets', 'western']
+None
+Game Initiated
+Available candidates are ['walkway', 'records', 'faction', 'intense', 'stating', 'objects', 'mankind', 'desires', 'villain', 'bandits', 'popular', 'streets', 'western']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N Y
+['bandits']
+What is your guess? bandits
+What is the clue? 1
+Available candidates are ['walkway', 'records', 'stating', 'desires']
+Number of candidates : 4
+Would you like to know a highly likely candidate? Y/N Y
+['records', 'desires']
+What is your guess? records
+What is the clue? 0
+Available candidates are ['walkway', 'stating']
+Number of candidates : 2
+Would you like to know a highly likely candidate? Y/N r
+What is your guess? r
+What is the clue? r
+Traceback (most recent call last):
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 38, in <module>
+    __main__()
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 32, in __main__
+    clue = int(clue)
+ValueError: invalid literal for int() with base 10: 'r'
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words walkway, records, faction, intense, stating, objects, mankind, desires, villain, bandits, popular, streets, western
+['walkway', 'records', 'faction', 'intense', 'stating', 'objects', 'mankind', 'desires', 'villain', 'bandits', 'popular', 'streets', 'western']
+None
+Game Initiated
+Available candidates are ['walkway', 'records', 'faction', 'intense', 'stating', 'objects', 'mankind', 'desires', 'villain', 'bandits', 'popular', 'streets', 'western']
+Number of candidates : 13
+Would you like to know a highly likely candidate? Y/N N
+What is your guess? records
+What is the clue? 0
+Available candidates are ['walkway', 'intense', 'stating', 'mankind', 'villain', 'popular']
+Number of candidates : 6
+Would you like to know a highly likely candidate? Y/N Y
+['walkway', 'mankind']
+What is your guess? walkway
+What is the clue? 0
+Available candidates are ['intense', 'stating']
+Number of candidates : 2
+Would you like to know a highly likely candidate? Y/N stating
+What is your guess? 7
+What is the clue? 7
+Traceback (most recent call last):
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 38, in <module>
+    __main__()
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 33, in __main__
+    game.update_candidates(guess, clue)
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 84, in update_candidates
+    candidates_bool = list(np.array(words_dict[guess]) == clue)
+KeyError: '7'
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>
+
+
+Microsoft Windows [Version 10.0.19045.4412]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words convinced, slithered, repressed, underwent, surviving, discovery, bartering, influence, separated, therefore, nightclub, northwest
+['convinced', 'slithered', 'repressed', 'underwent', 'surviving', 'discovery', 'bartering', 'influence', 'separated', 'therefore', 'nightclub', 'northwest']
+None
+Game Initiated
+Available candidates are ['convinced', 'slithered', 'repressed', 'underwent', 'surviving', 'discovery', 'bartering', 'influence', 'separated', 'therefore', 'nightclub', 'northwest']
+Number of candidates : 12
+Would you like to know a highly likely candidate? Y/N Y
+['slithered']
+What is your guess? slithered
+What is the clue? 0
+Available candidates are ['underwent', 'discovery', 'therefore', 'nightclub']
+Number of candidates : 4
+Would you like to know a highly likely candidate? Y/N Y
+['discovery']
+What is your guess? discovery
+What is the clue? 1
+Available candidates are ['underwent', 'therefore', 'nightclub']
+Number of candidates : 3
+Would you like to know a highly likely candidate? Y/N Y
+['underwent', 'therefore', 'nightclub']
+What is your guess? underwent
+What is the clue? 0
+Available candidates are ['therefore', 'nightclub']
+Number of candidates : 2
+Would you like to know a highly likely candidate? Y/N Y
+['therefore', 'nightclub']
+What is your guess? nightclub
+What is the clue? 9
+Last Candidate Standing is nightclub
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words convinced, slithered, repressed, underwent, surviving, discovery, bartering, influence, separated, therefore, nightclub, northwest
+['convinced', 'slithered', 'repressed', 'underwent', 'surviving', 'discovery', 'bartering', 'influence', 'separated', 'therefore', 'nightclub', 'northwest']
+None
+Game Initiated
+Available candidates are ['convinced', 'slithered', 'repressed', 'underwent', 'surviving', 'discovery', 'bartering', 'influence', 'separated', 'therefore', 'nightclub', 'northwest']
+Number of candidates : 12
+Would you like to know a highly likely candidate? Y/N J
+What is your guess? surviving
+What is the clue? 0
+Available candidates are ['repressed', 'influence', 'therefore', 'nightclub']
+Number of candidates : 4
+Would you like to know a highly likely candidate? Y/N Y
+['therefore']
+What is your guess? therefore
+What is the clue? 9
+Last Candidate Standing is therefore
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words bodyguards, bobblehead, sunglasses, embodiment, volunteers, mutational, procession, southwards, monitoring, befriended, explosions, flourishes
+['bodyguards', 'bobblehead', 'sunglasses', 'embodiment', 'volunteers', 'mutational', 'procession', 'southwards', 'monitoring', 'befriended', 'explosions', 'flourishes']
+None
+Game Initiated
+Available candidates are ['bodyguards', 'bobblehead', 'sunglasses', 'embodiment', 'volunteers', 'mutational', 'procession', 'southwards', 'monitoring', 'befriended', 'explosions', 'flourishes']
+Number of candidates : 12
+Would you like to know a highly likely candidate? Y/N Y
+['bodyguards']
+What is your guess? bodyguards
+What is the clue? 0
+Available candidates are ['embodiment', 'mutational', 'procession']
+Number of candidates : 3
+Would you like to know a highly likely candidate? Y/N Y
+['embodiment', 'mutational']
+What is your guess? embodiment
+What is the clue? 10
+Last Candidate Standing is embodiment
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words kind, desk, wood, used, band, work, mace, when, look, exit, salt
+['kind', 'desk', 'wood', 'used', 'band', 'work', 'mace', 'when', 'look', 'exit', 'salt']
+None
+Game Initiated
+Available candidates are ['kind', 'desk', 'wood', 'used', 'band', 'work', 'mace', 'when', 'look', 'exit', 'salt']
+Number of candidates : 11
+Would you like to know a highly likely candidate? Y/N Y
+['wood']
+What is your guess? wood
+What is the clue? 2
+Available candidates are ['work', 'look']
+Number of candidates : 2
+Would you like to know a highly likely candidate? Y/N Y
+['work', 'look']
+What is your guess? work
+What is the clue? 4
+Last Candidate Standing is work
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>Microsoft Windows [Version 10.0.19045.4412]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words replenishing, extinguisher, executioners, intelligence, conversation, brainwashing, unauthorized, specifically, surroundings, survivalists, enhancements, announcement
+['replenishing', 'extinguisher', 'executioners', 'intelligence', 'conversation', 'brainwashing', 'unauthorized', 'specifically', 'surroundings', 'survivalists', 'enhancements', 'announcement']
+None
+Game Initiated
+Available candidates are ['replenishing', 'extinguisher', 'executioners', 'intelligence', 'conversation', 'brainwashing', 'unauthorized', 'specifically', 'surroundings', 'survivalists', 'enhancements', 'announcement']
+Number of candidates : 12
+Would you like to know a highly likely candidate? Y/N Y
+['enhancements']
+What is your guess? enhancements
+What is the clue? 0
+Available candidates are ['replenishing', 'conversation', 'specifically']
+Number of candidates : 3
+Would you like to know a highly likely candidate? Y/N Y
+['replenishing']
+What is your guess? replenishing
+What is the clue? 12
+Last Candidate Standing is replenishing
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words blasted, dealing, beeping, tattoos, gradual, saviors, teacher, useless, leprosy, fencing, pillows, howling
+['blasted', 'dealing', 'beeping', 'tattoos', 'gradual', 'saviors', 'teacher', 'useless', 'leprosy', 'fencing', 'pillows', 'howling']
+None
+Game Initiated
+Available candidates are ['blasted', 'dealing', 'beeping', 'tattoos', 'gradual', 'saviors', 'teacher', 'useless', 'leprosy', 'fencing', 'pillows', 'howling']
+Number of candidates : 12
+Would you like to know a highly likely candidate? Y/N Y
+['dealing']
+What is your guess? dealing
+What is the clue? 1
+Available candidates are ['blasted', 'gradual', 'useless', 'leprosy', 'pillows']
+Number of candidates : 5
+Would you like to know a highly likely candidate? Y/N Y
+['useless', 'pillows']
+What is your guess? useless
+What is the clue? 1
+Last Candidate Standing is leprosy
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words since, eager, actor, times, walls, tandy, there, holds, dunes, loose, allow, owned
+['since', 'eager', 'actor', 'times', 'walls', 'tandy', 'there', 'holds', 'dunes', 'loose', 'allow', 'owned']
+None
+Game Initiated
+Available candidates are ['since', 'eager', 'actor', 'times', 'walls', 'tandy', 'there', 'holds', 'dunes', 'loose', 'allow', 'owned']
+Number of candidates : 12
+Would you like to know a highly likely candidate? Y/N Y
+['times', 'dunes']
+What is your guess? times
+What is the clue? 0
+Available candidates are ['actor', 'loose', 'allow']
+Number of candidates : 3
+Would you like to know a highly likely candidate? Y/N Y
+['actor', 'allow']
+What is your guess? actor
+What is the clue? 5
+Last Candidate Standing is actor
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>Microsoft Windows [Version 10.0.19045.4291]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words helping, shotgun, psychic, defeats, nowhere, benches, assigns, through, adorned, counter
+['helping', 'shotgun', 'psychic', 'defeats', 'nowhere', 'benches', 'assigns', 'through', 'adorned', 'counter']
+Game Initiated
+Available candidates are ['helping', 'shotgun', 'psychic', 'defeats', 'nowhere', 'benches', 'assigns', 'through', 'adorned', 'counter']
+Number of candidates : 10
+Would you like to know a highly likely candidate? Y/N N
+What is your guess? helping
+What is the clue? 0
+Available candidates are ['shotgun', 'psychic', 'nowhere', 'through', 'adorned', 'counter']
+Number of candidates : 6
+Would you like to know a highly likely candidate? Y/N N
+What is your guess? shotgun
+What is the clue? 0
+Available candidates are ['psychic', 'nowhere', 'counter']
+Number of candidates : 3
+Would you like to know a highly likely candidate? Y/N N
+What is your guess? nowhere
+What is the clue? 0
+Last Candidate Standing is psychic
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words meats, study, geeks, lover, seedy, built, mazes, proof, excel, saved
+['meats', 'study', 'geeks', 'lover', 'seedy', 'built', 'mazes', 'proof', 'excel', 'saved']
+Game Initiated
+Available candidates are ['meats', 'study', 'geeks', 'lover', 'seedy', 'built', 'mazes', 'proof', 'excel', 'saved']
+Number of candidates : 10
+Would you like to know a highly likely candidate? Y/N Y
+['seedy', 'mazes', 'saved']
+What is your guess? mazes
+What is the clue? 1
+Available candidates are ['geeks', 'lover', 'excel']
+Number of candidates : 3
+Would you like to know a highly likely candidate? Y/N Y
+['lover', 'excel']
+What is your guess? excel
+What is the clue? 5
+Last Candidate Standing is excel
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words cockroach, carpenting, disgraced, occupying, southward, temporary, paintings, suspected, countries, adventure
+['cockroach', 'carpenting', 'disgraced', 'occupying', 'southward', 'temporary', 'paintings', 'suspected', 'countries', 'adventure']
+Game Initiated
+Available candidates are ['cockroach', 'carpenting', 'disgraced', 'occupying', 'southward', 'temporary', 'paintings', 'suspected', 'countries', 'adventure']
+Number of candidates : 10
+Would you like to know a highly likely candidate? Y/N Y
+Traceback (most recent call last):
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 28, in <module>
+    __main__()
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 17, in __main__
+    game.most_likely()
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 89, in most_likely
+    sum_dict = self.get_sums()
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 77, in get_sums
+    words_dict = self.compiled()
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 55, in compiled
+    words_dict[y] = self.check_candidate_matches(y)
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 44, in check_candidate_matches
+    matches.append(self.total_matches(main_word, each))
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 32, in total_matches
+    if (first_word[i] == second_word[i]):
+IndexError: string index out of range
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words cockroach, carpenting, disgraced, occupying, southward, temporary, paintings, suspected, countries, adventure
+['cockroach', 'carpenting', 'disgraced', 'occupying', 'southward', 'temporary', 'paintings', 'suspected', 'countries', 'adventure']
+Game Initiated
+Available candidates are ['cockroach', 'carpenting', 'disgraced', 'occupying', 'southward', 'temporary', 'paintings', 'suspected', 'countries', 'adventure']
+Number of candidates : 10
+Would you like to know a highly likely candidate? Y/N Y
+Traceback (most recent call last):
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 28, in <module>
+    __main__()
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 17, in __main__
+    game.most_likely()
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 89, in most_likely
+    sum_dict = self.get_sums()
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 77, in get_sums
+    words_dict = self.compiled()
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 55, in compiled
+    words_dict[y] = self.check_candidate_matches(y)
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 44, in check_candidate_matches
+    matches.append(self.total_matches(main_word, each))
+  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 32, in total_matches
+    if (first_word[i] == second_word[i]):
+IndexError: string index out of range
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words cockroach, carpeting, disgraced, occupying, southward, temporary, paintings, suspected, countries, adventure
+['cockroach', 'carpeting', 'disgraced', 'occupying', 'southward', 'temporary', 'paintings', 'suspected', 'countries', 'adventure']
+Game Initiated
+Available candidates are ['cockroach', 'carpeting', 'disgraced', 'occupying', 'southward', 'temporary', 'paintings', 'suspected', 'countries', 'adventure']
+Number of candidates : 10
+Would you like to know a highly likely candidate? Y/N Y
+['countries']
+What is your guess? countries
+What is the clue? 1
+Available candidates are ['disgraced', 'occupying', 'temporary', 'suspected']
+Number of candidates : 4
+Would you like to know a highly likely candidate? Y/N Y
+['suspected']
+What is your guess? disgraced
+What is the clue? 0
+Available candidates are ['occupying', 'temporary']
+Number of candidates : 2
+Would you like to know a highly likely candidate? Y/N Y
+['occupying', 'temporary']
+What is your guess?
+
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words dynamite, survivor, breakers, violence, returned, finished, predator, location, ruthless
+['dynamite', 'survivor', 'breakers', 'violence', 'returned', 'finished', 'predator', 'location', 'ruthless']
+Game Initiated
+Available candidates are ['dynamite', 'survivor', 'breakers', 'violence', 'returned', 'finished', 'predator', 'location', 'ruthless']
+Number of candidates : 9
+Would you like to know a highly likely candidate? Y/N Y
+['breakers']
+What is your guess? breakers
+What is the clue? 2
+Available candidates are ['predator', 'ruthless']
+Number of candidates : 2
+Would you like to know a highly likely candidate? Y/N Y
+['predator', 'ruthless']
+What is your guess? predator
+What is the clue? 8
+Last Candidate Standing is predator
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words snacks, record, horror, immune, shrine, wildly, sucker, placed, cocoon
+['snacks', 'record', 'horror', 'immune', 'shrine', 'wildly', 'sucker', 'placed', 'cocoon']
+Game Initiated
+Available candidates are ['snacks', 'record', 'horror', 'immune', 'shrine', 'wildly', 'sucker', 'placed', 'cocoon']
+Number of candidates : 9
+Would you like to know a highly likely candidate? Y/N Y
+['sucker']
+What is your guess? sucker
+What is the clue? 1
+Available candidates are ['snacks', 'record', 'horror', 'shrine', 'placed', 'cocoon']
+Number of candidates : 6
+Would you like to know a highly likely candidate? Y/N Y
+['cocoon']
+What is your guess? cocoon
+What is the clue? 0
+Available candidates are ['snacks', 'shrine', 'placed']
+Number of candidates : 3
+Would you like to know a highly likely candidate? Y/N N
+What is your guess? shrine
+What is the clue? 0
+Last Candidate Standing is placed
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words rewarded, precious, unravels, dynamite, salvaged, mourning, believed, stumbles, agreeing, division
+['rewarded', 'precious', 'unravels', 'dynamite', 'salvaged', 'mourning', 'believed', 'stumbles', 'agreeing', 'division']
+Game Initiated
+Available candidates are ['rewarded', 'precious', 'unravels', 'dynamite', 'salvaged', 'mourning', 'believed', 'stumbles', 'agreeing', 'division']
+Number of candidates : 10
+Would you like to know a highly likely candidate? Y/N Y
+['believed']
+What is your guess? believed
+What is the clue? 8
+Last Candidate Standing is believed
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>
+
+
+Microsoft Windows [Version 10.0.19045.4412]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words efforts, slumber, somehow, gunfire, nullmod, beating, goggles, fearing, ransack, growing, thought, systems
+['efforts', 'slumber', 'somehow', 'gunfire', 'nullmod', 'beating', 'goggles', 'fearing', 'ransack', 'growing', 'thought', 'systems']
+None
+Game Initiated
+Available candidates are ['efforts', 'slumber', 'somehow', 'gunfire', 'nullmod', 'beating', 'goggles', 'fearing', 'ransack', 'growing', 'thought', 'systems']
+Number of candidates : 12
+Would you like to know a highly likely candidate? Y/N Y
+['beating', 'growing']
+What is your guess? beating
+What is the clue? 1
+Available candidates are ['gunfire', 'systems']
+Number of candidates : 2
+Would you like to know a highly likely candidate? Y/N Y
+['gunfire', 'systems']
+What is your guess? gunfire
+What is the clue? 7
+Last Candidate Standing is gunfire
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words wealth, facial, devoid, scared, immune, member, fields, minded, cannot, patrol, traded, except
+['wealth', 'facial', 'devoid', 'scared', 'immune', 'member', 'fields', 'minded', 'cannot', 'patrol', 'traded', 'except']
+None
+Game Initiated
+Available candidates are ['wealth', 'facial', 'devoid', 'scared', 'immune', 'member', 'fields', 'minded', 'cannot', 'patrol', 'traded', 'except']
+Number of candidates : 12
+Would you like to know a highly likely candidate? Y/N Y
+['minded']
+What is your guess? minded
+What is the clue? 0
+Available candidates are ['wealth', 'facial', 'immune', 'patrol', 'except']
+Number of candidates : 5
+Would you like to know a highly likely candidate? Y/N Y
+['facial']
+What is your guess? facial
+What is the clue? 0
+Available candidates are ['wealth', 'immune']
+Number of candidates : 2
+Would you like to know a highly likely candidate? Y/N Y
+['wealth', 'immune']
+What is your guess? wealth
+What is the clue? 0
+Last Candidate Standing is immune
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+Please give a list of the words lasted, barely, giving, church, player, trophy, pillow, follow, device, minute, people, minded
+['lasted', 'barely', 'giving', 'church', 'player', 'trophy', 'pillow', 'follow', 'device', 'minute', 'people', 'minded']
+None
+Game Initiated
+Available candidates are ['lasted', 'barely', 'giving', 'church', 'player', 'trophy', 'pillow', 'follow', 'device', 'minute', 'people', 'minded']
+Number of candidates : 12
+Would you like to know a highly likely candidate? Y/N Y
+['pillow']
+What is your guess? pillow
+What is the clue? 0
+Available candidates are ['lasted', 'barely', 'church', 'trophy', 'device']
+Number of candidates : 5
+Would you like to know a highly likely candidate? Y/N Y
+['barely']
+What is your guess? lasted
+What is the clue? 0
+Available candidates are ['church', 'trophy', 'device']
+Number of candidates : 3
+Would you like to know a highly likely candidate? Y/N Y
+['church', 'device']
+What is your guess? church
+What is the clue? 0
+Last Candidate Standing is trophy
+
+C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
