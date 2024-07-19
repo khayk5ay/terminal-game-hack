@@ -1,7 +1,6 @@
-Microsoft Windows [Version 10.0.19045.4412]
-(c) Microsoft Corporation. All rights reserved.
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words flask, fists, while, honor, beats, alley, kills, ruled, wares, thief, suits, enact, smile
 ['flask', 'fists', 'while', 'honor', 'beats', 'alley', 'kills', 'ruled', 'wares', 'thief', 'suits', 'enact', 'smile']
 None
@@ -20,7 +19,7 @@ What is your guess? while
 What is the clue? 0
 Last Candidate Standing is ruled
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words which, three, hands, wiped, alone, cargo, sneak, cells, crude, baton, cross, stuck, worse
 ['which', 'three', 'hands', 'wiped', 'alone', 'cargo', 'sneak', 'cells', 'crude', 'baton', 'cross', 'stuck', 'worse']
 None
@@ -51,7 +50,7 @@ What is your guess? hands
 What is the clue? 5
 Last Candidate Standing is hands
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words however, hammers, origins, arrived, rhombus, airlock, elegant, beneath, storage, implies, appears, heights, sharper
 ['however', 'hammers', 'origins', 'arrived', 'rhombus', 'airlock', 'elegant', 'beneath', 'storage', 'implies', 'appears', 'heights', 'sharper']
 None
@@ -70,13 +69,12 @@ What is your guess? beneath
 What is the clue? 7
 Last Candidate Standing is beneath
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>
+C:\Users\terminal\terminal-game-hack>
 
 
-Microsoft Windows [Version 10.0.19045.4412]
-(c) Microsoft Corporation. All rights reserved.
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words erratically, unbeknownst, worshipping, instruments, unspeakable, constructed, discoveries, freeloaders, shoplifting, disappeared, combination, residential, reprimanded
 ['erratically', 'unbeknownst', 'worshipping', 'instruments', 'unspeakable', 'constructed', 'discoveries', 'freeloaders', 'shoplifting', 'disappeared', 'combination', 'residential', 'reprimanded']
 None
@@ -95,7 +93,7 @@ What is your guess? combination
 What is the clue? 1
 Last Candidate Standing is freeloaders
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python second_main.py
+C:\Users\terminal\terminal-game-hack>python second_main.py
 Please give a list of the words erratically, unbeknownst, worshipping, instruments, unspeakable, constructed, discoveries, freeloaders, shoplifting, disappeared, combination, residential, reprimanded
 ['erratically', 'unbeknownst', 'worshipping', 'instruments', 'unspeakable', 'constructed', 'discoveries', 'freeloaders', 'shoplifting', 'disappeared', 'combination', 'residential', 'reprimanded']
 None
@@ -108,13 +106,13 @@ Would you like to know a (V)ery likely, (M)ost likely candidate? V/M/N M
 What is your guess? disco
 What is the clue?
 Traceback (most recent call last):
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\second_main.py", line 42, in <module>
+  File "C:\Users\terminal\terminal-game-hack\second_main.py", line 42, in <module>
     __main__()
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\second_main.py", line 35, in __main__
+  File "C:\Users\terminal\terminal-game-hack\second_main.py", line 35, in __main__
     clue = int(input("What is the clue? "))
 ValueError: invalid literal for int() with base 10: ''
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words actress, bundled, caliber, allowed, contest, nervous, manhood, systems, cutting, willing, himself, stealth, driving
 ['actress', 'bundled', 'caliber', 'allowed', 'contest', 'nervous', 'manhood', 'systems', 'cutting', 'willing', 'himself', 'stealth', 'driving']
 None
@@ -139,7 +137,7 @@ What is your guess? allowed
 What is the clue? 7
 Last Candidate Standing is allowed
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python second_main.py
+C:\Users\terminal\terminal-game-hack>python second_main.py
 Please give a list of the words actress, bundled, caliber, allowed, contest, nervous, manhood, systems, cutting, willing, himself, stealth, driving
 ['actress', 'bundled', 'caliber', 'allowed', 'contest', 'nervous', 'manhood', 'systems', 'cutting', 'willing', 'himself', 'stealth', 'driving']
 None
@@ -152,7 +150,7 @@ What is your guess? caliber
 What is the clue? 2
 Last Candidate Standing is allowed
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words volatile, junction, shackles, enabling, skeletal, conducts, property, backpack, appeared, announce, defeated, enslaved, benefits
 ['volatile', 'junction', 'shackles', 'enabling', 'skeletal', 'conducts', 'property', 'backpack', 'appeared', 'announce', 'defeated', 'enslaved', 'benefits']
 None
@@ -164,13 +162,13 @@ Would you like to know a highly likely candidate? Y/N Y
 What is your guess? e
 What is the clue? e
 Traceback (most recent call last):
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 38, in <module>
+  File "C:\Users\terminal\terminal-game-hack\main.py", line 38, in <module>
     __main__()
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 32, in __main__
+  File "C:\Users\terminal\terminal-game-hack\main.py", line 32, in __main__
     clue = int(clue)
 ValueError: invalid literal for int() with base 10: 'e'
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python second_main.py
+C:\Users\terminal\terminal-game-hack>python second_main.py
 Please give a list of the words volatile, junction, shackles, enabling, skeletal, conducts, property, backpack, appeared, announce, defeated, enslaved, benefits
 ['volatile', 'junction', 'shackles', 'enabling', 'skeletal', 'conducts', 'property', 'backpack', 'appeared', 'announce', 'defeated', 'enslaved', 'benefits']
 None
@@ -195,14 +193,13 @@ What is your guess? announce
 What is the clue? 8
 Last Candidate Standing is announce
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>
+C:\Users\terminal\terminal-game-hack>
 
 
 
-Microsoft Windows [Version 10.0.19045.4412]
-(c) Microsoft Corporation. All rights reserved.
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words production, vegetables, appearance, undetected
 ['production', 'vegetables', 'appearance', 'undetected']
 None
@@ -213,13 +210,13 @@ Would you like to know a highly likely candidate? Y/N chai
 What is your guess? i
 What is the clue? i
 Traceback (most recent call last):
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 38, in <module>
+  File "C:\Users\terminal\terminal-game-hack\main.py", line 38, in <module>
     __main__()
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 32, in __main__
+  File "C:\Users\terminal\terminal-game-hack\main.py", line 32, in __main__
     clue = int(clue)
 ValueError: invalid literal for int() with base 10: 'i'
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words production, vegetables, appearance, undetected, challenged, understand, increasing, scandalous, disheveled, rebellious, resistance, maintained, protection
 ['production', 'vegetables', 'appearance', 'undetected', 'challenged', 'understand', 'increasing', 'scandalous', 'disheveled', 'rebellious', 'resistance', 'maintained', 'protection']
 None
@@ -238,7 +235,7 @@ What is your guess? appearance
 What is the clue? 10
 Last Candidate Standing is appearance
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words sledge, misers, pretty, tongue, dapper, murder, worked, bitten, cabbot, listen, crisis, plants, cattle
 ['sledge', 'misers', 'pretty', 'tongue', 'dapper', 'murder', 'worked', 'bitten', 'cabbot', 'listen', 'crisis', 'plants', 'cattle']
 None
@@ -256,15 +253,15 @@ Would you like to know a highly likely candidate? Y/N Y
 What is your guess? MURDER
 What is the clue? 6
 Traceback (most recent call last):
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 38, in <module>
+  File "C:\Users\terminal\terminal-game-hack\main.py", line 38, in <module>
     __main__()
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 33, in __main__
+  File "C:\Users\terminal\terminal-game-hack\main.py", line 33, in __main__
     game.update_candidates(guess, clue)
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 84, in update_candidates
+  File "C:\Users\terminal\terminal-game-hack\terminal.py", line 84, in update_candidates
     candidates_bool = list(np.array(words_dict[guess]) == clue)
 KeyError: 'MURDER'
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words divided, nowhere, beliefs, guarded, implies, journey, leather, devious, servant, sheriff, carries, husband, already
 ['divided', 'nowhere', 'beliefs', 'guarded', 'implies', 'journey', 'leather', 'devious', 'servant', 'sheriff', 'carries', 'husband', 'already']
 None
@@ -283,13 +280,12 @@ What is your guess? nowhere
 What is the clue? 0
 Last Candidate Standing is husband
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>
+C:\Users\terminal\terminal-game-hack>
 
 
-Microsoft Windows [Version 10.0.19045.4412]
-(c) Microsoft Corporation. All rights reserved.
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words delighting, mysterious, overlooked, difference, incredible, expedition, allegiance, acceptance, flourishes, endorphins, unprepared, encampment, undergoing
 ['delighting', 'mysterious', 'overlooked', 'difference', 'incredible', 'expedition', 'allegiance', 'acceptance', 'flourishes', 'endorphins', 'unprepared', 'encampment', 'undergoing']
 None
@@ -302,7 +298,7 @@ What is your guess? endorphins
 What is the clue? 4
 Last Candidate Standing is encampment
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words traces, supply, coming, insane, tavern, statue, powder, menial, faulty, spires, raider, judged, figure
 ['traces', 'supply', 'coming', 'insane', 'tavern', 'statue', 'powder', 'menial', 'faulty', 'spires', 'raider', 'judged', 'figure']
 None
@@ -321,7 +317,7 @@ What is your guess? tavern
 What is the clue? 6
 Last Candidate Standing is tavern
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words blasphemers, unorganized, beckoningly, discoveries, destructive, essentially, persecution, recognition, independent, maintenance, acknowledge, infestation, unbeknownst
 ['blasphemers', 'unorganized', 'beckoningly', 'discoveries', 'destructive', 'essentially', 'persecution', 'recognition', 'independent', 'maintenance', 'acknowledge', 'infestation', 'unbeknownst']
 None
@@ -334,13 +330,12 @@ What is your guess? recognition
 What is the clue? 5
 Last Candidate Standing is persecution
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>
+C:\Users\terminal\terminal-game-hack>
 
 
-Microsoft Windows [Version 10.0.19045.4412]
-(c) Microsoft Corporation. All rights reserved.
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words reaches, variety, warlike, missing, annoyed, outpost, melting, decades, firearm, wearing, working, station, physics
 ['reaches', 'variety', 'warlike', 'missing', 'annoyed', 'outpost', 'melting', 'decades', 'firearm', 'wearing', 'working', 'station', 'physics']
 None
@@ -353,7 +348,7 @@ What is your guess? wearing
 What is the clue? 3
 Last Candidate Standing is missing
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words corporate, insistent, sanctuary, furniture, marauding, concealed, preparing, consisted, mechanism, monstrous, beautiful, nightclub, instantly
 ['corporate', 'insistent', 'sanctuary', 'furniture', 'marauding', 'concealed', 'preparing', 'consisted', 'mechanism', 'monstrous', 'beautiful', 'nightclub', 'instantly']
 None
@@ -372,7 +367,7 @@ What is your guess? furniture
 What is the clue? 9
 Last Candidate Standing is furniture
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words armageddon, exchanging, adrenaline, geothermal, underwater, brainwaves, facilities, associates, footprints, benevolent, scavenging, recreating, successful
 ['armageddon', 'exchanging', 'adrenaline', 'geothermal', 'underwater', 'brainwaves', 'facilities', 'associates', 'footprints', 'benevolent', 'scavenging', 'recreating', 'successful']
 None
@@ -391,10 +386,9 @@ What is your guess? associates
 What is the clue? 10
 Last Candidate Standing is associates
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>Microsoft Windows [Version 10.0.19045.4412]
-(c) Microsoft Corporation. All rights reserved.
+C:\Users\terminal\terminal-game-hack>
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words processor, canisters, wrenching, mechanism, piercings, footsteps, incessant, adventure, followers, community, computers, everytime
 ['processor', 'canisters', 'wrenching', 'mechanism', 'piercings', 'footsteps', 'incessant', 'adventure', 'followers', 'community', 'computers', 'everytime']
 None
@@ -413,7 +407,7 @@ What is your guess? followers
 What is the clue? 1
 Last Candidate Standing is community
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words servant, zealous, protect, thirsty, defense, signals, slumber, beeping, periods, effects, trained, success, popular
 ['servant', 'zealous', 'protect', 'thirsty', 'defense', 'signals', 'slumber', 'beeping', 'periods', 'effects', 'trained', 'success', 'popular']
 None
@@ -438,7 +432,7 @@ What is your guess? defense
 What is the clue? 0
 Last Candidate Standing is protect
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words walkway, records, faction, intense, stating, objects, mankind, desires, villain, bandits, popular, streets, western
 ['walkway', 'records', 'faction', 'intense', 'stating', 'objects', 'mankind', 'desires', 'villain', 'bandits', 'popular', 'streets', 'western']
 None
@@ -461,13 +455,13 @@ Would you like to know a highly likely candidate? Y/N r
 What is your guess? r
 What is the clue? r
 Traceback (most recent call last):
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 38, in <module>
+  File "C:\Users\terminal\terminal-game-hack\main.py", line 38, in <module>
     __main__()
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 32, in __main__
+  File "C:\Users\terminal\terminal-game-hack\main.py", line 32, in __main__
     clue = int(clue)
 ValueError: invalid literal for int() with base 10: 'r'
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words walkway, records, faction, intense, stating, objects, mankind, desires, villain, bandits, popular, streets, western
 ['walkway', 'records', 'faction', 'intense', 'stating', 'objects', 'mankind', 'desires', 'villain', 'bandits', 'popular', 'streets', 'western']
 None
@@ -489,21 +483,20 @@ Would you like to know a highly likely candidate? Y/N stating
 What is your guess? 7
 What is the clue? 7
 Traceback (most recent call last):
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 38, in <module>
+  File "C:\Users\terminal\terminal-game-hack\main.py", line 38, in <module>
     __main__()
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 33, in __main__
+  File "C:\Users\terminal\terminal-game-hack\main.py", line 33, in __main__
     game.update_candidates(guess, clue)
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 84, in update_candidates
+  File "C:\Users\terminal\terminal-game-hack\terminal.py", line 84, in update_candidates
     candidates_bool = list(np.array(words_dict[guess]) == clue)
 KeyError: '7'
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>
+C:\Users\terminal\terminal-game-hack>
 
 
-Microsoft Windows [Version 10.0.19045.4412]
-(c) Microsoft Corporation. All rights reserved.
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words convinced, slithered, repressed, underwent, surviving, discovery, bartering, influence, separated, therefore, nightclub, northwest
 ['convinced', 'slithered', 'repressed', 'underwent', 'surviving', 'discovery', 'bartering', 'influence', 'separated', 'therefore', 'nightclub', 'northwest']
 None
@@ -534,7 +527,7 @@ What is your guess? nightclub
 What is the clue? 9
 Last Candidate Standing is nightclub
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words convinced, slithered, repressed, underwent, surviving, discovery, bartering, influence, separated, therefore, nightclub, northwest
 ['convinced', 'slithered', 'repressed', 'underwent', 'surviving', 'discovery', 'bartering', 'influence', 'separated', 'therefore', 'nightclub', 'northwest']
 None
@@ -552,7 +545,7 @@ What is your guess? therefore
 What is the clue? 9
 Last Candidate Standing is therefore
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words bodyguards, bobblehead, sunglasses, embodiment, volunteers, mutational, procession, southwards, monitoring, befriended, explosions, flourishes
 ['bodyguards', 'bobblehead', 'sunglasses', 'embodiment', 'volunteers', 'mutational', 'procession', 'southwards', 'monitoring', 'befriended', 'explosions', 'flourishes']
 None
@@ -571,7 +564,7 @@ What is your guess? embodiment
 What is the clue? 10
 Last Candidate Standing is embodiment
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words kind, desk, wood, used, band, work, mace, when, look, exit, salt
 ['kind', 'desk', 'wood', 'used', 'band', 'work', 'mace', 'when', 'look', 'exit', 'salt']
 None
@@ -590,10 +583,9 @@ What is your guess? work
 What is the clue? 4
 Last Candidate Standing is work
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>Microsoft Windows [Version 10.0.19045.4412]
-(c) Microsoft Corporation. All rights reserved.
+C:\Users\terminal\terminal-game-hack>
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words replenishing, extinguisher, executioners, intelligence, conversation, brainwashing, unauthorized, specifically, surroundings, survivalists, enhancements, announcement
 ['replenishing', 'extinguisher', 'executioners', 'intelligence', 'conversation', 'brainwashing', 'unauthorized', 'specifically', 'surroundings', 'survivalists', 'enhancements', 'announcement']
 None
@@ -612,7 +604,7 @@ What is your guess? replenishing
 What is the clue? 12
 Last Candidate Standing is replenishing
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words blasted, dealing, beeping, tattoos, gradual, saviors, teacher, useless, leprosy, fencing, pillows, howling
 ['blasted', 'dealing', 'beeping', 'tattoos', 'gradual', 'saviors', 'teacher', 'useless', 'leprosy', 'fencing', 'pillows', 'howling']
 None
@@ -631,7 +623,7 @@ What is your guess? useless
 What is the clue? 1
 Last Candidate Standing is leprosy
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words since, eager, actor, times, walls, tandy, there, holds, dunes, loose, allow, owned
 ['since', 'eager', 'actor', 'times', 'walls', 'tandy', 'there', 'holds', 'dunes', 'loose', 'allow', 'owned']
 None
@@ -650,10 +642,9 @@ What is your guess? actor
 What is the clue? 5
 Last Candidate Standing is actor
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>Microsoft Windows [Version 10.0.19045.4291]
-(c) Microsoft Corporation. All rights reserved.
+C:\Users\terminal\terminal-game-hack>Microsoft Windows [Version 10.0.19045.4291]
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words helping, shotgun, psychic, defeats, nowhere, benches, assigns, through, adorned, counter
 ['helping', 'shotgun', 'psychic', 'defeats', 'nowhere', 'benches', 'assigns', 'through', 'adorned', 'counter']
 Game Initiated
@@ -674,7 +665,7 @@ What is your guess? nowhere
 What is the clue? 0
 Last Candidate Standing is psychic
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words meats, study, geeks, lover, seedy, built, mazes, proof, excel, saved
 ['meats', 'study', 'geeks', 'lover', 'seedy', 'built', 'mazes', 'proof', 'excel', 'saved']
 Game Initiated
@@ -692,7 +683,7 @@ What is your guess? excel
 What is the clue? 5
 Last Candidate Standing is excel
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words cockroach, carpenting, disgraced, occupying, southward, temporary, paintings, suspected, countries, adventure
 ['cockroach', 'carpenting', 'disgraced', 'occupying', 'southward', 'temporary', 'paintings', 'suspected', 'countries', 'adventure']
 Game Initiated
@@ -700,23 +691,23 @@ Available candidates are ['cockroach', 'carpenting', 'disgraced', 'occupying', '
 Number of candidates : 10
 Would you like to know a highly likely candidate? Y/N Y
 Traceback (most recent call last):
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 28, in <module>
+  File "C:\Users\terminal\terminal-game-hack\main.py", line 28, in <module>
     __main__()
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 17, in __main__
+  File "C:\Users\terminal\terminal-game-hack\main.py", line 17, in __main__
     game.most_likely()
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 89, in most_likely
+  File "C:\Users\terminal\terminal-game-hack\terminal.py", line 89, in most_likely
     sum_dict = self.get_sums()
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 77, in get_sums
+  File "C:\Users\terminal\terminal-game-hack\terminal.py", line 77, in get_sums
     words_dict = self.compiled()
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 55, in compiled
+  File "C:\Users\terminal\terminal-game-hack\terminal.py", line 55, in compiled
     words_dict[y] = self.check_candidate_matches(y)
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 44, in check_candidate_matches
+  File "C:\Users\terminal\terminal-game-hack\terminal.py", line 44, in check_candidate_matches
     matches.append(self.total_matches(main_word, each))
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 32, in total_matches
+  File "C:\Users\terminal\terminal-game-hack\terminal.py", line 32, in total_matches
     if (first_word[i] == second_word[i]):
 IndexError: string index out of range
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words cockroach, carpenting, disgraced, occupying, southward, temporary, paintings, suspected, countries, adventure
 ['cockroach', 'carpenting', 'disgraced', 'occupying', 'southward', 'temporary', 'paintings', 'suspected', 'countries', 'adventure']
 Game Initiated
@@ -724,23 +715,23 @@ Available candidates are ['cockroach', 'carpenting', 'disgraced', 'occupying', '
 Number of candidates : 10
 Would you like to know a highly likely candidate? Y/N Y
 Traceback (most recent call last):
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 28, in <module>
+  File "C:\Users\terminal\terminal-game-hack\main.py", line 28, in <module>
     __main__()
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\main.py", line 17, in __main__
+  File "C:\Users\terminal\terminal-game-hack\main.py", line 17, in __main__
     game.most_likely()
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 89, in most_likely
+  File "C:\Users\terminal\terminal-game-hack\terminal.py", line 89, in most_likely
     sum_dict = self.get_sums()
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 77, in get_sums
+  File "C:\Users\terminal\terminal-game-hack\terminal.py", line 77, in get_sums
     words_dict = self.compiled()
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 55, in compiled
+  File "C:\Users\terminal\terminal-game-hack\terminal.py", line 55, in compiled
     words_dict[y] = self.check_candidate_matches(y)
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 44, in check_candidate_matches
+  File "C:\Users\terminal\terminal-game-hack\terminal.py", line 44, in check_candidate_matches
     matches.append(self.total_matches(main_word, each))
-  File "C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack\terminal.py", line 32, in total_matches
+  File "C:\Users\terminal\terminal-game-hack\terminal.py", line 32, in total_matches
     if (first_word[i] == second_word[i]):
 IndexError: string index out of range
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words cockroach, carpeting, disgraced, occupying, southward, temporary, paintings, suspected, countries, adventure
 ['cockroach', 'carpeting', 'disgraced', 'occupying', 'southward', 'temporary', 'paintings', 'suspected', 'countries', 'adventure']
 Game Initiated
@@ -763,7 +754,7 @@ Would you like to know a highly likely candidate? Y/N Y
 What is your guess?
 
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words dynamite, survivor, breakers, violence, returned, finished, predator, location, ruthless
 ['dynamite', 'survivor', 'breakers', 'violence', 'returned', 'finished', 'predator', 'location', 'ruthless']
 Game Initiated
@@ -781,7 +772,7 @@ What is your guess? predator
 What is the clue? 8
 Last Candidate Standing is predator
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words snacks, record, horror, immune, shrine, wildly, sucker, placed, cocoon
 ['snacks', 'record', 'horror', 'immune', 'shrine', 'wildly', 'sucker', 'placed', 'cocoon']
 Game Initiated
@@ -804,7 +795,7 @@ What is your guess? shrine
 What is the clue? 0
 Last Candidate Standing is placed
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words rewarded, precious, unravels, dynamite, salvaged, mourning, believed, stumbles, agreeing, division
 ['rewarded', 'precious', 'unravels', 'dynamite', 'salvaged', 'mourning', 'believed', 'stumbles', 'agreeing', 'division']
 Game Initiated
@@ -816,13 +807,12 @@ What is your guess? believed
 What is the clue? 8
 Last Candidate Standing is believed
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>
+C:\Users\terminal\terminal-game-hack>
 
 
-Microsoft Windows [Version 10.0.19045.4412]
-(c) Microsoft Corporation. All rights reserved.
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words efforts, slumber, somehow, gunfire, nullmod, beating, goggles, fearing, ransack, growing, thought, systems
 ['efforts', 'slumber', 'somehow', 'gunfire', 'nullmod', 'beating', 'goggles', 'fearing', 'ransack', 'growing', 'thought', 'systems']
 None
@@ -841,7 +831,7 @@ What is your guess? gunfire
 What is the clue? 7
 Last Candidate Standing is gunfire
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words wealth, facial, devoid, scared, immune, member, fields, minded, cannot, patrol, traded, except
 ['wealth', 'facial', 'devoid', 'scared', 'immune', 'member', 'fields', 'minded', 'cannot', 'patrol', 'traded', 'except']
 None
@@ -866,7 +856,7 @@ What is your guess? wealth
 What is the clue? 0
 Last Candidate Standing is immune
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>python main.py
+C:\Users\terminal\terminal-game-hack>python main.py
 Please give a list of the words lasted, barely, giving, church, player, trophy, pillow, follow, device, minute, people, minded
 ['lasted', 'barely', 'giving', 'church', 'player', 'trophy', 'pillow', 'follow', 'device', 'minute', 'people', 'minded']
 None
@@ -891,7 +881,7 @@ What is your guess? church
 What is the clue? 0
 Last Candidate Standing is trophy
 
-C:\Users\K84277516.CHINA\Documents\KAINE DATA PROJECTS\terminal-game-hack>
+C:\Users\terminal\terminal-game-hack>
 
 
 
